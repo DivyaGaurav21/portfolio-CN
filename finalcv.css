@@ -15,7 +15,7 @@ a{
 
 #body-header{
     height: 75vh;
-    background-image: linear-gradient(rgba(31, 12, 3, 0.7),rgba(47, 54, 7, 0.7)),url(logo5.jpg);
+    background-image: linear-gradient(rgba(31, 12, 3, 0.7),rgba(47, 54, 7, 0.7)),url(./assets/logo5.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
